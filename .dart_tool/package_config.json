@@ -68,6 +68,54 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "geolocator",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-9.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "geolocator_android",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "geolocator_apple",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "geolocator_platform_interface",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_platform_interface-4.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "geolocator_web",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "geolocator_windows",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_windows-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0",
       "packageUri": "lib/",
@@ -94,6 +142,12 @@
     {
       "name": "path",
       "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/samuel_lu/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +206,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-07-04T09:49:56.370520Z",
+  "generated": "2022-07-05T07:46:01.946421Z",
   "generator": "pub",
   "generatorVersion": "2.17.1"
 }
